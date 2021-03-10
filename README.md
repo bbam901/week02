@@ -1,4 +1,4 @@
-# week02
+# In_Class Homework 저장소
 
 ### In-Class Homework Week 2 Day1 #1 201921056 박정하
 ### 안드로이드 스튜디오 화면 출력 변경
